@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Old News] Finish my 6-month research internship at MSR-Asia。
+[Old News] Finish my 6-month research internship at MSR-Asia.
