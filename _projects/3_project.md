@@ -19,7 +19,7 @@ One of my favorite movies: *A Brighter Summer Day*
 </div>
 
   
-one of my favorite animes: *Nichijou*  
+One of my favorite animes: *Nichijou*  
 
 
 <div class="row">
