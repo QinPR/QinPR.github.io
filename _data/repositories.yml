@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - QinPR
+  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - QinPR/Paper-Reading
+  - QinPR/CSC4001_Project
