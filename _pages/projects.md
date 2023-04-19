@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hobbies
+title: hobbies
 permalink: /projects/
 description: These hobbies color my daily life and make me what I am. 
 nav: true
