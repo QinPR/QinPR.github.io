@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Hobbies
 permalink: /projects/
-description: Fantastic Projects I Participate / am Participating.
-nav: false
+description: 
+nav: true
 nav_order: 2
 display_categories: []
 horizontal: false
