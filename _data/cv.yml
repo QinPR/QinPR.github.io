@@ -24,6 +24,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: UCARE Group, University of Chicago
+      year: 2023
+
     - title: Research Intern
       institution: Networking Research Group, Microsoft Research Asia 
       year: 2022 
