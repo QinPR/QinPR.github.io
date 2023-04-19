@@ -22,4 +22,4 @@ I am Peiran Qin (in chinese 秦培然), an incoming Pre-Doctoral student in Comp
 
 Previously, I was honored to work as a research intern at Microsoft Research Asia (MSRA) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) at CUHK(SZ). 
 
-Welcome to contact me by [peiranqin@uchicago.edu](peiranqin@uchicago.edu) :D
+Welcome to contact me by email: [peiranqin@uchicago.edu](peiranqin@uchicago.edu) :D
