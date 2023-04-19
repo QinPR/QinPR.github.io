@@ -7,7 +7,7 @@ importance: 1
 category: Daily
 ---
 
-I enjoy watching the starry night when I am free. The belowing picture is when I and my freinds participate the China National Astronomy Olympiad (CNAO) in Hangzhou, China in 2018.  
+I enjoy watching the starry night when I am free. The belowing picture is when I and my freinds participated the China National Astronomy Olympiad (CNAO) in Hangzhou, China in 2018.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
