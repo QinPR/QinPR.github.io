@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Hobbies
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: These hobbies color my daily life and make me what I am. 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Daily]
 horizontal: false
 ---
 
