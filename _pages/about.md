@@ -18,6 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: flase  # includes social icons at the bottom of the page
 ---
 
-I am Peiran Qin (in chinese 秦培然), an incoming Pre-Doctoral student in Computer Science at University of Chicago, advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/). I am interested in Systems (Operating Systems, Parallel and Distributed Computing) as well as their intersection with Machine Learning. Welcome to contact me by peiranqin[at]uchicago[dot]com! 
+I am Peiran Qin (in chinese 秦培然), an incoming Pre-Doctoral student in Computer Science at University of Chicago, advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/). I am interested in Systems as well as their intersection with Machine Learning.  
 
 Previously, I was honored to work as a research intern at Microsoft Research Asia (MSRA) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/). 
+
+Welcome to contact me by [peiranqin@uchicago.edu](peiranqin@uchicago.edu)!
