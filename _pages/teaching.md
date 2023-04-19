@@ -1,12 +1,21 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+permalink: /hobbies/
+title: hobbies
+description: My Hobbies
+nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+These hobbies color my daily life and make me what I am. If we share the same hobbies, don't hesitate to reach out to me :D  
+  
+---  
+#### Astronomy  
+I enjoy watching the starry night when I am free. The belowing picture is when I and my freinds participate the China National Astronomy Olympiad (CNAO) in Hangzhou, China in 2018.  
+--- 
+#### Playing Badminton  
+---  
+#### Playing Basketball  
+---  
+#### Movies and Animes
 
-Organize your courses by years, topics, or universities, however you like!
