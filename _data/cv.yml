@@ -11,11 +11,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science - Computer Science
+    - title: Pre-Doctral - Computer Science
       institution: University of Chicago
       year: 2023-now
-      description:
-        - Pre-Doctral of Computer Science, advised by Professor Haryadi S. Gunawi.
+
     - title: Bachelor of Engineering - Computer Engineering
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2019-2023
@@ -24,19 +23,19 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: UCARE Group, University of Chicago
-      year: 2023
+    - title: UCARE Group, University of Chicago
+      institution: Research Assistant
+      year: 2023-now
 
-    - title: Research Intern
-      institution: Networking Research Group, Microsoft Research Asia 
+    - title: Networking Research Group, Microsoft Research Asia 
+      institution: Research Intern
       year: 2022 
       description:
 
-    - title: Research Assistant
-      institution: Alibaba DAMO Academy & CUHKSZ Collaborative Project
+    - title: Alibaba DAMO Academy & CUHKSZ Collaborative Project
+      institution: Research Assistant
       year: 2022
 
-    - title: Software Engineer
-      institution: Zhongshen Agricultural Innovation Technology Co., Ltd
+    - title: Zhongshen Agricultural Innovation Technology Co., Ltd
+      institution: Software Engineer
       year: 2021
