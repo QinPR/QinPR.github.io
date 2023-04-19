@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://QinPR.github.io/QinPR.github.io/sitemap.xml
+Sitemap: https://QinPR.github.io/sitemap.xml
