@@ -84,7 +84,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
 }
 
 .profile img {
@@ -167,7 +167,7 @@ blockquote {
 }
 
 .profile img {
-  max-width: 10vw;
+  max-width: 16vw;
   height: auto;
 }
 
