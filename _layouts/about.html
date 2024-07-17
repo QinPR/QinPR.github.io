@@ -29,7 +29,7 @@ layout: default
           </div>
           {%- endif %}
 
-          <div class="profile-info" style="clear: both;">
+          <div class="profile-info">
             {%- assign cv_path = page.profile.cv | prepend: 'assets/cv/' -%}
 
             <h3 style="margin-bottom: 1.5vh;"><strong>{{page.profile.name}}</strong></h3>
@@ -41,7 +41,7 @@ layout: default
             <p><i class="fas fa-file-pdf"></i> Curriculum Vitae: <a href="{{ cv_path }}">[pdf]</a></p>
           </div>
 
-          <div>
+          <div style="clear: both;">
             {{ content }}
           </div>
 
