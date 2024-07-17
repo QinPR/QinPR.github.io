@@ -166,6 +166,11 @@ blockquote {
   text-align: center;
 }
 
+.profile img {
+  max-width: 10%;
+  max-height: 10%;
+}
+
 .card {
   background-color: var(--global-card-bg-color);
 }
