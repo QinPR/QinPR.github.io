@@ -35,13 +35,15 @@
           </button>
 
           <div class="collapse navbar-collapse text-right" id="navbarNav">
-            <ul class="navbar-nav ml-auto flex-nowrap">
+            <ul class="navbar-nav ml-auto flex-nowrap center-navbar">
 
               {%- for page in site.pages -%}
                 {% if page.permalink == '/' %}
                   {% assign about_title = '[About]' %}
-                  {% assign experience_title = '[Experience]' %}
+                  {% assign education_title = '[Education]' %}
+                  {% assign work_experience_title = '[Work Experience]' %}
                   {% assign publication_title = '[Publications]' %}
+                  {% assign misc_title = '[Misc.]' %}
                 {% endif %}
               {% endfor %}
 
@@ -53,9 +55,17 @@
                   {%- endif -%}
                 </a>
               </li>
+              <!-- Education -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">{{ education_title }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
               <!-- Experience -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">{{ experience_title }}
+                <a class="nav-link" href="{{ '/' | relative_url }}">{{ work_experience_title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -64,6 +74,14 @@
               <!-- Publication -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ publication_title }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Misc. -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">{{ misc_title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
