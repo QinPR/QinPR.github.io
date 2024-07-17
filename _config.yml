@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Peiran Qin # the website title (if blank, full name will be used instead)
-first_name: Peiran
+first_name: 
 middle_name: 
-last_name: Qin
+last_name:
 email: peiranqin@uchicago.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple homepage of Peiran Qin. Based on [*folio](https://github.com/bogoli/-folio) design.

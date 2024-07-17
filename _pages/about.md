@@ -8,9 +8,7 @@ profile:
   align: left
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>5801 S. Ellis Avet</p>
-    <p>Chicago, IL 60637</p>
+  address:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
