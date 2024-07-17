@@ -44,29 +44,46 @@ layout: default
           <div style="clear: both;">
             {{ content }}
           </div>
+        </article>
 
-          <!-- Education -->
-          {%- include education.html %}
+        <!-- Education -->
+        <header class="post-header">
+          <h3 class="post-title">
+          {{ "Education" }}
+          </h3>
+          <hr class="header-line" style="margin-bottom: 3vh;">
+        </header>
 
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
+        <article>
+          <div class="profile float-{%- if page.master.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="margin-left: 2vw;">
+            {%- if page.master.profile_img %}
+              {%- assign master_profile_image_path = page.master.profile_img | prepend: 'assets/img/' -%}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
+              {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
 
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
+              {% include figure.html
+              path=master_profile_image_path
+              class=profile_image_class
+              style="width: 14vw; height: auto;"
+              alt=page.master.profile_img -%}
+            {% endif -%}
+          </div> -->
 
-            </div>
-          {%- endif %}
+          <!-- <div class="profile-info">
+            {%- assign cv_path = page.profile.cv | prepend: 'assets/cv/' -%}
+
+            <h3 style="margin-bottom: 1.5vh;"><strong>{{page.profile.name}}</strong></h3>
+            <h6 style="margin-bottom: 1vh;""><strong>{{page.profile.title}}</strong></h6>
+            <p><i class="fas fa-building"></i> Address: {{page.profile.address}}</p>
+            <p><i class="fas fa-envelope"></i> Email: {{page.profile.email}}</p>
+            <p><i class="fas fa-phone"></i> Phone: {{page.profile.phone}}</p>
+            <p><i class="fas fa-code"></i> Code: <a href="{{page.profile.code_link}}">[GitHub]</a>
+            <p><i class="fas fa-file-pdf"></i> Curriculum Vitae: <a href="{{ cv_path }}">[pdf]</a></p>
+          </div> -->
+
+          <!-- <div style="clear: both;">
+            {{ content }}
+          </div> -->
         </article>
 
 </div>
