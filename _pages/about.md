@@ -12,6 +12,8 @@ profile:
   title: Pre-Doctoral M.S., University of Chicago, CS
   email: peiranqin@uchicago.edu
   address: 5035 East End, Chicago, IL
+  code_link: https://github.com/QinPR
+  cv: peiran_cv.pdf
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

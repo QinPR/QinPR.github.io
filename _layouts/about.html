@@ -30,17 +30,18 @@ layout: default
           {%- endif %}
 
           <div class="profile-info">
-            <h4><strong>{{page.profile.name}}</strong></h4>
-            <hr class="header-line" style="margin-bottom: 3vh;">
+            {%- assign cv_path = page.profile.cv | prepend: 'assets/cv/' -%}
+
+            <h3 style="margin-bottom: 2vh;"><strong>{{page.profile.name}}</strong></h3>
             <h6><strong>{{page.profile.title}}</strong></h6>
             <p><i class="fas fa-building"></i> Address: {{page.profile.address}}</p>
             <p><i class="fas fa-envelope"></i> Email: {{page.profile.email}}</p>
-            <p><i class="fas fa-code"></i> Code: <a href="https://github.com/QinPR">[GitHub]</a>
-            <p><i class="fas fa-file-pdf"></i> Curriculum Vitae: <a href="#">[pdf]</a></p>
+            <p><i class="fas fa-code"></i> Code: <a href="{{page.profile.code_link}}">[GitHub]</a>
+            <p><i class="fas fa-file-pdf"></i> Curriculum Vitae: <a href="{{ cv_path }}">[pdf]</a></p>
           </div>
         </div>
 
-          <div class="clearfix">
+          <div>
             {{ content }}
           </div>
 
