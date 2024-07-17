@@ -14,6 +14,7 @@ profile:
   address: 5035 East End, Chicago, IL
   code_link: https://github.com/QinPR
   cv: peiran_cv.pdf
+  phone: +1 (773) 812 5328
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
