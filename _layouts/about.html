@@ -23,19 +23,19 @@ layout: default
               {% include figure.html
               path=profile_image_path
               class=profile_image_class
-              style="width: 14vw; height: auto;"
+              style="width: 12vw; height: auto;"
               alt=page.profile.image -%}
             {% endif -%}
           </div>
           {%- endif %}
 
           <div class="profile-info">
-            <h2>{{page.profile.name}}</h2>
-            <h4>{{page.profile.title}}</h4>
-            <p><strong><i class="fas fa-building"></i>Address:</strong> 5035 East End, Chicago, IL</p>
-            <p><strong><i class="fas fa-envelope"></i>Email:</strong> peiranqin@uchicago.edu</p>
-            <p><strong><i class="fas fa-code"></i>Code:</strong> <a href="#">Personal</a>, <a href="#">Group</a></p>
-            <p><strong>Curriculum Vitae:</strong> <a href="#">[pdf]</a></p>
+            <h6><strong>{{page.profile.name}}</strong></h6>
+            <h6><strong>{{page.profile.title}}</strong></h6>
+            <p><i class="fas fa-building"></i> Address: {{page.profile.address}}</p>
+            <p><i class="fas fa-envelope"></i> Email: {{page.profile.email}}</p>
+            <p><i class="fas fa-code"></i> Code: <a href="https://github.com/QinPR">[GitHub]</a>
+            <p><i class="fas fa-file-pdf"></i> Curriculum Vitae: <a href="#">[pdf]</a></p>
           </div>
         </div>
 

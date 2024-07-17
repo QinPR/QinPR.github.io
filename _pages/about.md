@@ -10,6 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   name: Peiran Qin
   title: Pre-Doctoral M.S., University of Chicago, CS
+  email: peiranqin@uchicago.edu
+  address: 5035 East End, Chicago, IL
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
