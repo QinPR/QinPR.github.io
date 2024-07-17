@@ -55,7 +55,7 @@ layout: default
         </header>
 
         <article>
-          <div class="profile float-{%- if page.education.master.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="margin-left: 2vw;">
+          <div class="{%- if page.education.master.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="margin-left: 2vw;">
             {%- if page.education.master.img %}
               {%- assign master_profile_image_path = page.education.master.img | prepend: 'assets/img/' -%}
 
@@ -64,13 +64,21 @@ layout: default
               {% include figure.html
               path=master_profile_image_path
               class=image_class
-              style="width: 3vw; height: auto;"
+              style="width: 6vw; height: auto;"
               alt=page.education.master.img -%}
             {% endif -%}
           </div>
 
-          <div class="master-info">
-            {{page.education.master.name}}  {{page.education.master.title}}   {{page.education.master.time}}     
+          <div class="master-info" style="display: flex; justify-content: space-between; width: 100%;">
+            <div style="flex: 1; text-align: left;">
+              {{page.education.master.name}}
+            </div>
+            <div style="flex: 1; text-align: center;">
+              {{page.education.master.title}}
+            </div>
+            <div style="flex: 1; text-align: right;">
+              {{page.education.master.time}}
+            </div>
           </div>
         </article>
       </div>

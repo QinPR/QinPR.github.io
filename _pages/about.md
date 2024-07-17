@@ -33,10 +33,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: flase  # includes social icons at the bottom of the page
 ---
 
-I am a [Pre-Doctoral M.S.](https://cs.uchicago.edu/mpcs-pre-doctoral-program/) student in Computer Science at [the University of Chicago](https://www.uchicago.edu/), advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/).  Previously, I was honored to work as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) at as a student research assistant at [Alibaba Group](https://damo.alibaba.com/?language=en) and [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
+I'm a [Pre-Doctoral M.S.](https://cs.uchicago.edu/mpcs-pre-doctoral-program/) student in Computer Science at [the University of Chicago](https://www.uchicago.edu/), advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/).  Previously, I was honored to work as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) at as a student research assistant at [Alibaba Group](https://damo.alibaba.com/?language=en) and [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
 
-I am interested in **Operating Systems, Storage Systems, Distributed Systems and their intersections with ML**. I focus on building more performant systems in the context of:  
-+ High Efficiency (e.g. prefetch and cache eviction co-design for higher cache efficiency)  
-+ Low Latency (e.g. mitigating tail latencies in cloud storage systems)  
-+ Workload Aware (e.g. workload characterization and prediction for distributed machine learning clusters)   
+My research focuses on **Operating Systems, Storage Systems, Distributed Systems and their intersections with ML**.  
+  
+</u>I'm activately looking for <u>**2025 Fall Ph.D. Opportunities**!</u>
 
