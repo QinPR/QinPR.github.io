@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle:
 
+# 1. Profile
 profile:
   align: left
   image: profile.jpg
@@ -15,6 +16,16 @@ profile:
   code_link: https://github.com/QinPR
   cv: peiran_cv.pdf
   phone: +1 (773) 812 5328
+
+# 2. Education
+education:
+  master:
+    img: uchicago.jpg
+    align: left
+    name: University of Chicago
+    title: Pre-Doctoral M.S.
+    major: Computer Science
+    time: (Sep, 2023 - Present)
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
