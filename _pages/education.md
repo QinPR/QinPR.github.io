@@ -1,7 +1,7 @@
 ---
 layout: education
 title: education
-permalink: /
+permalink: /education
 subtitle:
 
 master:
