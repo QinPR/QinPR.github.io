@@ -39,14 +39,23 @@
 
               {%- for page in site.pages -%}
                 {% if page.permalink == '/' %}
-                  {% assign about_title = '[about]' %}
-                  {% assign publication_title = '[publications]' %}
+                  {% assign about_title = '[About]' %}
+                  {% assign experience_title = '[Experience]' %}
+                  {% assign publication_title = '[Publications]' %}
                 {% endif %}
               {% endfor %}
 
               <!-- About -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Experience -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">{{ experience_title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
