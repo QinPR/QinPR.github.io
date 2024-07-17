@@ -3,7 +3,7 @@ layout: page
 title: hobbies
 permalink: /projects/
 description: These hobbies color my daily life and make me what I am. 
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Daily]
 horizontal: false
