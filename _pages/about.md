@@ -15,8 +15,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: flase  # includes social icons at the bottom of the page
 ---
-### About  
----  
 
 I am **Peiran Qin** (in Chinese 秦培然), a Pre-Doctoral CS student at the University of Chicago, advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/). I am interested in Systems as well as their intersection with Machine Learning.  
 
