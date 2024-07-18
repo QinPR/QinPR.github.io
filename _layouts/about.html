@@ -17,19 +17,23 @@ layout: default
                 display: flex;
                 justify-content: space-between;
                 align-items: baseline;
+                align-items: flex-start;
+                flex-wrap: wrap;
             }
             .work-experience .company-details {
                 display: flex;
-                flex-direction: row;
+                flex-direction: wrap;
             }
             .work-experience .company {
                 font-weight: bold;
+                margin-right: 1vw;
             }
             .work-experience .advisor {
                 font-style: italic;
             }
             .work-experience .role {
                 font-style: italic;
+                width: 100%;
             }
             .work-experience .duration {
                 font-style: italic;
@@ -107,7 +111,7 @@ layout: default
           <ul class="work-experience">
               <li>
                   <div class="company-details">
-                      <div class="company">{{page.work.uchi.company_name}}</div>
+                      <div class="company">{{page.work.uchi.company_name}};</div>
                       <div class="advisor">Advisor: {{page.work.uchi.advisor}}</div>
                       <div class="role">{{page.work.uchi.title}}, {{page.work.uchi.group}}</div>
                   </div>
@@ -116,8 +120,8 @@ layout: default
               <li>
                 <li>
                   <div class="company-details">
-                      <div class="company">{{page.work.msra.company_name}}</div>
-                      <div class="advisor">Advisor: {{page.work.msra.advisor}}</div>
+                      <div class="company">{{page.work.msra.company_name}};</div>
+                      <div class="advisor">Mentor: {{page.work.msra.advisor}}</div>
                       <div class="role">{{page.work.msra.title}}, {{page.work.msra.group}}</div>
                   </div>
                   <div class="duration">{{page.work.msra.time}}</div>
@@ -125,7 +129,7 @@ layout: default
               <li>
                 <li>
                   <div class="company-details">
-                      <div class="company">{{page.work.alibaba.company_name}}</div>
+                      <div class="company">{{page.work.alibaba.company_name}};</div>
                       <div class="advisor">Advisor: {{page.work.alibaba.advisor}}</div>
                       <div class="role">{{page.work.alibaba.title}}</div>
                   </div>
@@ -134,7 +138,7 @@ layout: default
               <li>
                 <li>
                   <div class="company-details">
-                      <div class="company">{{page.work.zsnc.company_name}}</div>
+                      <div class="company">{{page.work.zsnc.company_name}};</div>
                       <div class="advisor">Advisor: {{page.work.zsnc.advisor}}</div>
                       <div class="role">{{page.work.zsnc.title}}</div>
                   </div>

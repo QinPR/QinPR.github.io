@@ -47,13 +47,13 @@ work:
   alibaba:
     company_name: Alibaba Group
     title: Student Research Assistant
-    mentor: Yeh-Ching Chung
+    advisor: Yeh-Ching Chung
     time: Dec, 2021 - May, 2022
   zsnc:
     company_name: Zhongshen Agricultural Innovation Technology Co., Ltd
     title: Software Development Engineer
     time: May, 2021 - Dec, 2021
-    mentor: Yeh-Ching Chung
+    advisor: Yeh-Ching Chung
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
