@@ -147,7 +147,13 @@ blockquote {
 }
 
 .profile-image {
-  flex: 0 0 14vw;
+  flex: 0 0 auto;
+  max-width: 30%;
+}
+
+.profile-image img {
+  width: 100%;
+  height: auto;
 }
 
 .profile-info {
@@ -161,7 +167,7 @@ blockquote {
   }
 
   .profile-image {
-    width: 14vw;
+    width: 50%;
   }
 
   .profile-info {
@@ -169,16 +175,13 @@ blockquote {
   }
 }
 
-
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+  }
 
-    .address {
-      p {
-        display: block;
-      }
-    }
+  .address p {
+    display: block;
   }
 }
 
