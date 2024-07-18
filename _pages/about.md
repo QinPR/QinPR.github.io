@@ -55,6 +55,17 @@ work:
     time: May, 2021 - Dec, 2021
     advisor: Yeh-Ching Chung
 
+# 3. Publications
+pub1:
+  status: In Submission '24
+  authors: Anonymous Author(s)
+  title: Heimdall: Accurate and Efficient I/O Admission Policy with Extensive Machine Learning Pipeline
+
+pub2:
+  status: Near Submission '24
+  authors: Anonymous Author(s)
+  title: Heimdall: Storage Prefetching Needs Feedback: An Efficient Prefetching/Eviction Co-Design with Small Cache Footprints [Temporary Title]
+
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
