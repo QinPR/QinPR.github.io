@@ -69,7 +69,7 @@ layout: default
 
       <div class="post">
         <header class="post-header">
-          <h3 class="post-title">
+          <h3 class="post-title" id="about-header">
           {{ "About" }}
           </h3>
           <hr class="header-line" style="margin-bottom: 3vh;">
@@ -112,7 +112,7 @@ layout: default
 
         <!-- Education -->
         <header class="post-header">
-          <h3 class="post-title">
+          <h3 class="post-title" id="education-header">
           {{ "Education" }}
           </h3>
           <hr class="header-line" style="margin-bottom: 3vh;">
@@ -127,7 +127,7 @@ layout: default
 
         <!-- Work Experience -->
         <header class="post-header">
-          <h3 class="post-title">
+          <h3 class="post-title" id="experience-header">
           {{ "Work Experiences" }}
           </h3>
           <hr class="header-line" style="margin-bottom: 3vh;">
@@ -184,7 +184,7 @@ layout: default
 
         <!-- Publications -->
         <header class="post-header">
-          <h3 class="post-title">
+          <h3 class="post-title" id="pub-header">
           {{ "Publications" }}
           </h3>
           <hr class="header-line" style="margin-bottom: 3vh;">
@@ -210,7 +210,7 @@ layout: default
         </article>
 
         <!-- Misc. -->
-        <header class="post-header">
+        <header class="post-header" id="misc-header">
           <h3 class="post-title">
           {{ "Misc." }}
           </h3>
@@ -229,7 +229,7 @@ layout: default
             alt=page.misc.image2 -%}
           </div>
 
-          <div style="margin-bottom: 1vh;">
+          <div style="margin-bottom: 2vh;">
             {{ page.misc.content1 }}
           </div>
           <div>
