@@ -139,6 +139,37 @@ blockquote {
   margin-right: 1rem;
 }
 
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 2vw;
+  margin: 1vh 0;
+}
+
+.profile-image {
+  flex: 0 0 14vw;
+}
+
+.profile-info {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-image {
+    width: 14vw;
+  }
+
+  .profile-info {
+    text-align: center;
+  }
+}
+
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
