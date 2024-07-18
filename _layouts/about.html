@@ -208,4 +208,34 @@ layout: default
             </li>
           </ul>
         </article>
+
+        <header class="post-header">
+          <h3 class="post-title">
+          {{ "About" }}
+          </h3>
+          <hr class="header-line" style="margin-bottom: 3vh;">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        </header>
+
+        <!-- Misc. -->
+        <article>
+          <div class="profile float-right" style="margin-right: 2vw;">
+            {%- assign misc1_image_path = page.misc.image1 | prepend: 'assets/img/' -%}
+
+            {%- assign misc1_image_class = "img-fluid z-depth-1 rounded" -%}
+
+            {% include figure.html
+            path=misc1_image_path
+            class=misc1_image_class
+            style="width: 14vw; height: auto;"
+            alt=page.misc.image1 -%}
+          </div>
+
+          <div>
+            {{ page.misc.content1 }}
+          </div>
+          <div style="clear: both;">
+            {{ page.misc.content2 }}
+          </div>
+        </article>
       </div>

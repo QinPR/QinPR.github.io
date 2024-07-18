@@ -66,6 +66,12 @@ pub2:
   authors: Anonymous Author(s)
   title: Storage Prefetching Needs Feedback, An Efficient Prefetching/Eviction Co-Design with Small Cache Footprints [Temporary Title]
 
+# 4. Misc.
+misc:
+  image1: misc1.jpg
+  content1: I am an avid fan of <strong>astronomy</strong>. The beauty of the starry night sky never ceases to amaze me. I was an member of the astronomy club during my middle school, high school, and college years. I won the gold medal in the China National Astronomy Olympiad (CNAO '18).
+  content2: Maba
+
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
