@@ -20,12 +20,15 @@ profile:
 # 2. Education
 education:
   master:
-    img: uchicago.jpg
-    align: left
     university_name: University of Chicago
     title: Pre-Doctoral M.S.
     major: Computer Science
     time: (Sep, 2023 - Present)
+  bachelor:
+    university_name: Chinese University of Hong Kong, Shenzhen
+    title: B.Eng.
+    major: Computer Engineering
+    time: (Sep, 2019 - July, 2023)
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
