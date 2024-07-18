@@ -59,12 +59,12 @@ work:
 pub1:
   status: In Submission '24
   authors: Anonymous Author(s)
-  title: Heimdall: Accurate and Efficient I/O Admission Policy with Extensive Machine Learning Pipeline
+  title: Heimdall, Accurate and Efficient I/O Admission Policy with Extensive Machine Learning Pipeline
 
 pub2:
   status: Near Submission '24
   authors: Anonymous Author(s)
-  title: Heimdall: Storage Prefetching Needs Feedback: An Efficient Prefetching/Eviction Co-Design with Small Cache Footprints [Temporary Title]
+  title: Storage Prefetching Needs Feedback, An Efficient Prefetching/Eviction Co-Design with Small Cache Footprints [Temporary Title]
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
