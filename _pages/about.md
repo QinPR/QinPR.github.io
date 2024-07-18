@@ -35,21 +35,25 @@ work:
   uchi:
     company_name: University of Chicago
     group: UCARE group
+    advisor: Haryadi S. Gunawi
     title: Research Assistant
     time: Apr, 2023 - present
   msra:
     company_name: Microsoft Research, Asia
     group: Network Research Group
+    advisor: Lei Qu
     title: Research Intern
     time: May, 2022 - Nov, 2022
   alibaba:
     company_name: Alibaba Group
     title: Student Research Assistant
+    mentor: Yeh-Ching Chung
     time: Dec, 2021 - May, 2022
   zsnc:
     company_name: Zhongshen Agricultural Innovation Technology Co., Ltd
     title: Software Development Engineer
     time: May, 2021 - Dec, 2021
+    mentor: Yeh-Ching Chung
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -64,5 +68,5 @@ My research focuses on **Operating Systems, Storage Systems, Distributed Systems
 2. Low Latency (e.g. mitigating tail latencies in cloud storage systems)  
 3. Workload Awared (e.g. workload characterization and prediction for distributed machine learning clusters)  
   
-<u>I'm activately looking for **2025 Fall Ph.D. Opportunities**!</u>
+<u>I'm activately looking for <strong>2025 Fall Ph.D. Opportunities</strong>!</u>
 
