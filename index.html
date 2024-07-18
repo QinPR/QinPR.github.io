@@ -124,28 +124,33 @@
             .work-experience li {
                 margin-bottom: 1.5vh;
                 display: flex;
+                flex-direction: column;
+            }
+            .company-container {
+                display: flex;
                 justify-content: space-between;
                 align-items: baseline;
-                align-items: flex-start;
                 flex-wrap: wrap;
             }
-            .work-experience .company-details {
+            .company-details {
                 display: flex;
-                flex-direction: wrap;
+                align-items: baseline;
             }
-            .work-experience .company {
+            .company {
                 font-weight: bold;
-                margin-right: 1vw;
+                margin-right: 2vw;
             }
-            .work-experience .advisor {
+            .advisor {
                 font-style: italic;
             }
-            .work-experience .role {
+            .role {
                 font-style: italic;
-                width: 100%;
+                margin-top: 2vh;
             }
-            .work-experience .duration {
+            .duration {
                 font-style: italic;
+                margin-top: 2vh;
+                align-self: flex-end;
             }
         </style>
       
