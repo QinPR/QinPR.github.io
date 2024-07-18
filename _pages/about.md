@@ -69,8 +69,8 @@ pub2:
 # 4. Misc.
 misc:
   image1: misc1.jpg
-  content1: I am an avid fan of <strong>astronomy</strong>. The beauty of the starry night sky never ceases to amaze me. I was an member of the astronomy club during my middle school, high school, and college years. I won the gold medal in the China National Astronomy Olympiad (CNAO '18).
-  content2: Maba
+  content1: I am an avid fan of <u>Astronomy</u>. The beauty of the starry night sky amazes me a lot. I was astronomy club member during my middle school, high school, and college years, and won the gold medal in the China National Astronomy Olympiad (CNAO '18).
+  content2: I have a very cuuuute cat! His name is Mabu (抹布 in chinese).
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
