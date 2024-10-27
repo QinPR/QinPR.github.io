@@ -79,7 +79,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: flase  # includes social icons at the bottom of the page
 ---
 
-I'm a [Pre-Doctoral M.S.](https://masters.cs.uchicago.edu/academics/pre-doctoral-ms-computer-science/) student in Computer Science at [the University of Chicago](https://www.uchicago.edu/), advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/).  Previously, I was honored to work as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) as a student research assistant at [Alibaba Group](https://damo.alibaba.com/?language=en) and [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
+I'm a [Pre-Doctoral M.S.](https://masters.cs.uchicago.edu/academics/pre-doctoral-ms-computer-science/) student in Computer Science at [the University of Chicago](https://www.uchicago.edu/), advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/).  I'm also working on my latest research project with Prof. [Juncheng Yang](https://junchengyang.com/) from [Harvard University](https://seas.harvard.edu/).
+
+Previously, I was honored to work as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) as a student research assistant at [Alibaba Group](https://damo.alibaba.com/?language=en) and [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
 
 My research focuses on **Operating Systems, Storage Systems, Distributed Systems and their intersections with ML**. I enjoy building more performant systems in the context of:  
 1. High Efficiency (e.g. prefetch and cache eviction co-design for higher cache efficiency)  
