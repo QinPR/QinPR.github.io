@@ -88,5 +88,5 @@ My research focuses on **Operating Systems, Storage Systems, Distributed Systems
 2. Low Latency (e.g. mitigating tail latencies in cloud storage systems)  
 3. Workload Awared (e.g. workload characterization and prediction for distributed machine learning clusters)  
   
-<u>I'm activately looking for <strong>2025 Fall Ph.D. Opportunities</strong>!</u>
+<!-- <u>I'm activately looking for <strong>2025 Fall Ph.D. Opportunities</strong>!</u> -->
 
