@@ -88,4 +88,4 @@ My research focuses on **Operating Systems, Storage Systems, Distributed Systems
 2. Low Latency (e.g. mitigating tail latencies in cloud storage systems)  
 3. Workload Awared (e.g. workload characterization and prediction for distributed machine learning clusters)  
   
-I will join [MangoBoost](https://www.mangoboost.io/about) on 2025 January as a software engineer! working on systems for ML.
+<i class="fas fa-sun"></i> I will join [MangoBoost](https://www.mangoboost.io/about) on 2025 January as a software engineer! working on systems for ML.
