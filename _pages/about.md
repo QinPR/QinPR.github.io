@@ -23,7 +23,7 @@ education:
     university_name: University of Chicago
     title: Pre-Doctoral M.S.
     major: Computer Science
-    time: Sep, 2023 - present
+    time: Sep, 2023 - Dec, 2024
   bachelor:
     university_name: Chinese University of Hong Kong, Shenzhen
     title: B.Eng.
@@ -66,7 +66,7 @@ pub1:
   title: Heimdall, Accurate and Efficient I/O Admission Policy with Extensive Machine Learning Pipeline
 
 pub2:
-  status: In Submission '24
+  status: In Submission '25
   authors: Anonymous Author(s)
   title: Storage Prefetching Needs Feedback, An Efficient Prefetching/Eviction Co-Design with Small Cache Footprints [Temporary Title]
 
@@ -83,9 +83,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: flase  # includes social icons at the bottom of the page
 ---
 
-I'm a [Pre-Doctoral M.S.](https://masters.cs.uchicago.edu/academics/pre-doctoral-ms-computer-science/) student in Computer Science at [the University of Chicago](https://www.uchicago.edu/), advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/).  I'm also working on my latest research project with Prof. [Juncheng Yang](https://junchengyang.com/) from [Harvard University](https://seas.harvard.edu/).
+Prior I join [MangoBoost](https://www.mangoboost.io/), I was a [Pre-Doctoral M.S.](https://masters.cs.uchicago.edu/academics/pre-doctoral-ms-computer-science/) student in Computer Science at [the University of Chicago](https://www.uchicago.edu/), advised by Prof. [Haryadi S. Gunawi](http://people.cs.uchicago.edu/~haryadi/).  I also worked on research project with Prof. [Juncheng Yang](https://junchengyang.com/) from [Harvard University](https://seas.harvard.edu/).
 
-Previously, I was honored to work as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) as a student research assistant at [Alibaba Group](https://damo.alibaba.com/?language=en) and [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
+During my Undergradudate, I was honored to work as a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the fantastic mentorship of [Lei Qu](https://www.microsoft.com/en-us/research/people/lequ/), and be advised by Prof. [Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/) as a student research assistant at [Alibaba Group](https://damo.alibaba.com/?language=en) and [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
 
 My research focuses on **Operating Systems, Storage Systems, Distributed Systems and their intersections with ML**. I enjoy building more performant systems in the context of:  
 1. High Efficiency (e.g. prefetch and cache eviction co-design for higher cache efficiency)  
