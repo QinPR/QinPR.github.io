@@ -10,9 +10,9 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   name: Peiran Qin
-  title: Pre-Doctoral M.S., University of Chicago, CS
-  email: peiranqin@uchicago.edu
-  address: 5035 East End, Chicago, IL
+  title: Software Engineer, MangoBoost, Inc.
+  email: peiranqin2001@gmail.com
+  address: 14240 SE 6th St. Bellevue, WA 98007
   code_link: https://github.com/QinPR
   cv: peiran_cv.pdf
   phone: +1 (773) 812 5328
@@ -32,12 +32,16 @@ education:
 
 # 2. Work
 work:
+  mangoboost:
+    company_name: MangoBoost, Inc.
+    title: Software Engineer in MLSystem
+    time: Jan, 2025 - present
   uchi:
     company_name: University of Chicago
     group: UCARE group
     advisor: Haryadi S. Gunawi
     title: Research Assistant
-    time: Apr, 2023 - present
+    time: Apr, 2023 - Jan, 2025
   msra:
     company_name: Microsoft Research, Asia
     group: Network Research Group
@@ -57,12 +61,12 @@ work:
 
 # 3. Publications
 pub1:
-  status: In Submission '24
+  status: EuroSys '25
   authors: Anonymous Author(s)
   title: Heimdall, Accurate and Efficient I/O Admission Policy with Extensive Machine Learning Pipeline
 
 pub2:
-  status: Near Submission '24
+  status: In Submission '24
   authors: Anonymous Author(s)
   title: Storage Prefetching Needs Feedback, An Efficient Prefetching/Eviction Co-Design with Small Cache Footprints [Temporary Title]
 
